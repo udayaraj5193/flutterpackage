@@ -26,7 +26,7 @@ class login1 extends State<Login1> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Login"),
+        title: Text("TouchStoreApp"),
         backgroundColor: Colors.black,
       ),
       body: Column(
